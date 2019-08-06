@@ -1,0 +1,21 @@
+h1  {
+	font-family: 'Crimson Text', serif;
+	font-size: 100px;
+	font-style: normal;
+	font-weight: 500;
+	color: #000000;
+}
+
+h2 {
+	font-family: 'Crimson Text', serif;
+	font-size: 75px;
+	font-style: normal;
+	font-weight: 300;
+	color: #000000;
+	
+}
+
+
+body {
+  background-image: linear-gradient(to right, blue, white);
+}
